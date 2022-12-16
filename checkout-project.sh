@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # command example: 
-#    sh checkoutProject.sh "C:\dev\IdeaProjects\" http://my-server:7990/my-project.git
-#    sh checkoutProject.sh "C:\dev\IdeaProjects\" http://my-server:7990/my-project.git develop
+#    sh checkoutProject.sh "C:\dev\IdeaProjects" http://my-server:7990/my-project.git
+#    sh checkoutProject.sh "C:\dev\IdeaProjects" http://my-server:7990/my-project.git develop
 
 readonly PROXY=http://123.45.678.9:9876
 
